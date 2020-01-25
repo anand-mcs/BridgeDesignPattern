@@ -36,18 +36,6 @@
     <Reference Include="jni4net.n-0.8.8.0">
       <HintPath>jni4net-0.8.8.0-bin\lib\jni4net.n-0.8.8.0.dll</HintPath>
     </Reference>
-    <Reference Include="jni4net.n.w32.v20-0.8.8.0">
-      <HintPath>jni4net-0.8.8.0-bin\lib\jni4net.n.w32.v20-0.8.8.0.dll</HintPath>
-    </Reference>
-    <Reference Include="jni4net.n.w32.v40-0.8.8.0">
-      <HintPath>jni4net-0.8.8.0-bin\lib\jni4net.n.w32.v40-0.8.8.0.dll</HintPath>
-    </Reference>
-    <Reference Include="jni4net.n.w64.v20-0.8.8.0">
-      <HintPath>jni4net-0.8.8.0-bin\lib\jni4net.n.w64.v20-0.8.8.0.dll</HintPath>
-    </Reference>
-    <Reference Include="jni4net.n.w64.v40-0.8.8.0">
-      <HintPath>jni4net-0.8.8.0-bin\lib\jni4net.n.w64.v40-0.8.8.0.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
